@@ -8,4 +8,4 @@ This app isn't much but it does what it's supposed to do. i wrote it in react. T
 Below is a screenshot of the app.
 
 
-(./src/assets/sudoku.png)
+![Sudoku App Screenshot](./src/assets/sudoku.png)

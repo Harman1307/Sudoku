@@ -36,6 +36,7 @@ html {
 
 body {
   background: var(--bg-main);
+  justify-content: center;
   background-image:
     radial-gradient(
       ellipse at top,
